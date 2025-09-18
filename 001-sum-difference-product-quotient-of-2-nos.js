@@ -1,3 +1,5 @@
+// Read two numbers and print their sum, difference, product, and quotient.
+
 const prompt = require('prompt-sync')();
 
 function printResults(numX, numY) {
